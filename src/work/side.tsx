@@ -15,7 +15,7 @@ const Side = () => {
     return (
         <>
             <Row>
-                <h5 className='manage'>Manage • Contact</h5>
+                <h5 className='manage'>Manage Contacts</h5>
             </Row>
             <Row className='contact-line'>
                 <h3 className='Manage-contacts '>Manage contacts</h3>

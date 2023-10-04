@@ -6,7 +6,6 @@ export const Design = () => {
     return (
         <>
             <Row>
-
                 <Col >
                     <Card >
                         <Row>
@@ -27,7 +26,7 @@ export const Design = () => {
                         <Row>
                             <Col>
                                 <h6>PHONE NO:</h6>
-                                <h6>+91 9993335550</h6>
+                                <h6>+91 1234567890</h6>
                             </Col>
                             <Col>
                                 <h6>CONTACT TYPE</h6>
