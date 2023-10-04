@@ -13,23 +13,13 @@ const Side = () => {
         throw new Error("Function not implemented.");
     }
     return (
-
         <>
-            {/* <Container>
-                <Row>
-                    <Col>1 of 1</Col>
-                    <Col>kfdgndfkg</Col>
-                </Row>
-            </Container> */}
-
             <Row>
-                <h5 className='manage'>Manage • Contact</h5>
+                <h5 className='manage'>Manage Contacts</h5>
             </Row>
             <Row className='contact-line'>
                 <h3 className='Manage-contacts '>Manage contacts</h3>
-
             </Row>
-
             <Row className='search-button buttom-line'>
                 <Col span={8}>
                     <Input placeholder="Search Name or Contact Type…" className='search' suffix={<SearchOutlined className='icon' />} />
