@@ -1,0 +1,90 @@
+.manage {
+    text-align: left;
+    letter-spacing: 0px;
+    color: #6F91A8;
+    opacity: 1;
+}
+
+.Manage-contacts {
+    font: normal normal bold 20px/24px Inter;
+    letter-spacing: 0px;
+    color: #2B3134;
+    opacity: 1;
+    margin-top: 0%;
+    font-size: 29px;
+}
+
+.contact-line {
+    border-bottom: 1px solid rgb(195 185 185)
+}
+
+.search {
+    top: 5px;
+    left: 7px;
+    /* width: 530px; */
+    height: 44px;
+    border: 1px solid #9EB5C4;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+.icon {
+    font-size: 26px;
+    color: #6F91A8;
+}
+
+.button {
+    width: 147px;
+    height: 44px;
+    background: #F0F4F6 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 1;
+    border: none;
+    color: #6F91A8;
+    font-size: 19px;
+    margin-top: 5px;
+    margin-left: 12px;
+}
+
+.icon-filter {
+    padding: 5px;
+}
+
+.buttom-line {
+    padding: 12px;
+    border-bottom: 1px solid rgb(195 185 185) 
+  
+}
+.img-left-text{
+    margin-left: 10px;
+}
+.neeraj{
+    text-align: left;
+    font: normal normal bold 16px/20px Inter;
+    letter-spacing: 0px;
+    color: #194873;
+    opacity: 1;
+    margin-top: 3%;
+}
+.project{
+    height: 15px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #7B9AAF;
+    opacity: 1;
+    margin-top: -22%;
+}
+
+@media only screen and (max-width: 575px) {
+    .search-button {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width: 575px) and (max-width: 820px) {
+    .search-button {
+        display: flex;
+        justify-content: center;
+    }
+}
